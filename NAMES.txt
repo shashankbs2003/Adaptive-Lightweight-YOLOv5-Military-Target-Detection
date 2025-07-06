@@ -1,0 +1,13 @@
+guns = {0: 'battleaxe', 1: 'beretta', 2: 'caracal', 3: 'charterarmsbulldog',
+ 4: 'dagger', 5: 'fnp90', 6: 'm14', 7: 'rpg', 8: 'scarh', 9: 'ump'}
+
+ aircraft = {0: 'Airbus A-400M transport plane', 1: 'Awax E-3 air traffic control plane', 
+ 2: 'Boeing-747 transport plane', 3: 'C-130 transport airplane', 4: 'E-7 Wedgetail aircraft',
+  5: 'F-15 fighter airplane', 6: 'KC-10 refueling airplane', 7: 'KC-135 transport airplane'}
+
+
+Tanker ={0: 'bm-21', 1: 'bmd-2', 2: 'bmp-1', 3: 'bmp-2',
+            4: 'btr-70', 5: 'btr-80', 6: 'mt-lb',
+            7: 't-64', 8: 't-72', 9: 't-80'}
+
+
