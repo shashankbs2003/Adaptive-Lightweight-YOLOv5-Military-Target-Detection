@@ -40,4 +40,5 @@ This repository contains a deep learning-based object detection system designed 
 ![image](https://github.com/user-attachments/assets/f813c1aa-36a3-44d1-971c-5932fea8720e)
 > The live detection module identifies **soldiers in real-time** through a video feed or surveillance camera.  
 > It supports armed/unarmed classification and is suitable for dynamic battlefield monitoring and border surveillance.
+> 
 
