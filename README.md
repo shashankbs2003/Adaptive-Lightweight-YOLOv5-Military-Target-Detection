@@ -1,10 +1,10 @@
 # Adaptive-Lightweight-YOLOv5-Military-Target-Detection
 A lightweight YOLOv5-based system for detecting and classifying military targets in low-visibility conditions like fog, smoke, and night vision scenarios.
-# Adaptive Lightweight YOLOv5-Based Network for Military Target Detection
+# Adaptive Lightweight YOLOv5-Based Network for Military Target Detection  
 
 This repository contains a deep learning-based object detection system designed to classify and detect military targets—such as weapons, personnel, and equipment—under low-visibility conditions like fog, smoke, and poor lighting. Built using a lightweight version of YOLOv5, the system is optimized for real-time performance on resource-constrained devices such as drones and edge hardware.
 
-## 🔐 Login Page – Snapshot 
+## 🔐 Login Page – Snapshot  
 ![image](https://github.com/user-attachments/assets/86617f9b-de41-4a54-b0fa-c556b2b2f5ac)
 > The login page titled **"TARGET DETECTOR"** features four main sections:  
 > - **Overview** – Brief introduction to the system  
@@ -12,7 +12,7 @@ This repository contains a deep learning-based object detection system designed 
 > - **Analysis** – In-depth review of detected targets  
 > - **Reports** – Upload and review mission-specific detection data
 
-## 🏠 Home Page – Snapshot
+## 🏠 Home Page – Snapshot 
 ![image](https://github.com/user-attachments/assets/d90d4b11-b9f0-446c-9831-6cf44871f239)
 > The home screen explains the system’s **purpose, features, and use cases**, including:  
 > - Real-time detection in fog/smoke  
