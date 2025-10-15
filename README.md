@@ -7,7 +7,7 @@ This repository contains a deep learning-based object detection system designed 
 ## 🔐 Login Page – Snapshot  
 ![image](https://github.com/user-attachments/assets/86617f9b-de41-4a54-b0fa-c556b2b2f5ac)
 > The login page titled **"TARGET DETECTOR"** features four main sections:  
-> - **Overview** – Brief introduction to the system  
+> - **Overview** – Brief introduction to the system
 > - **Detection** – Access to general and advanced detection modes  
 > - **Analysis** – In-depth review of detected targets  
 > - **Reports** – Upload and review mission-specific detection data
